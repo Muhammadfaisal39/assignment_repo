@@ -1,1 +1,1 @@
-# assignment_repo
+# My first Git and GitHub Assignment
